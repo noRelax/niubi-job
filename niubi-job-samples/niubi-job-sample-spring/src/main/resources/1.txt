@@ -1,0 +1,132 @@
+{
+  "PICSLOGO": "1",
+  "FLOWVERSIONTIME": "2019-06-06 20:45:18",
+  "RELEVANTNEWSIDS": "",
+  "TOPICENDTIME": "",
+  "FOCUSIMAGEDESC": "",
+  "DOCWORDSCOUNT": "791",
+  "ISFOCUSIMAGE": "1",
+  "CHANNELID": "12450",
+  "CONTRIBUTORSTWO": {
+    "name": "无",
+    "value": "无"
+  },
+  "BELONGCHANNEL_DB": {
+    "TYPE": "",
+    "NAME": "",
+    "VALUE": ""
+  },
+  "ABSTRACT": "",
+  "LISTTITLE": "外国留学生纷纷点赞 松阳畲乡办起了国际小镇音乐节",
+  "LISTSTYLE": "0",
+  "FOCUSIMAGE": [],
+  "ISCONTAINSENSITIVEWORDS": "0",
+  "RELEVANTOFFICIALSIDS": [],
+  "CRUSER": "zhxw",
+  "LABEL_DB": "无",
+  "CHNLNAME": "lishui94",
+  "TOPICSTARTTIME": "",
+  "RELATEDNEWS": [],
+  "BELONGCHANNEL": {
+    "TYPE": "",
+    "NAME": "",
+    "VALUE": ""
+  },
+  "CRDEPT": "集团丽水分社",
+  "CHNLDESC": "丽水",
+  "ISCOMMENTED": "0",
+  "CRUSERDEPT": "集团丽水分社",
+  "NEWSSOURCES": "",
+  "METALOGOURL": {
+    "PICSLOGO": "http://mlf.8531.cn/wcm/openapi/readimg?ScaleWidth=600&FileName=W020190606747179122593.jpg",
+    "PICSLOGO2": "http://mlf.8531.cn/webpic/W0201906/W020190606/W020190606747179122593_50.jpg"
+  },
+  "DOCTYPE": "新闻",
+  "SRCMETADATAID": "0",
+  "RELATEDLIVEDOCS": [],
+  "AUDIOLOGO": "0",
+  "LISTPICS": [
+    {
+      "SRCPICURL": "/protect/P0201906/P020190606/P020190606747178830779.jpg",
+      "APPFILE": "P020190606747178830779.jpg",
+      "APPDESC": "P020190606747178830779.jpg"
+    }
+  ],
+  "METADATAID": "10287545",
+  "FIGURE": [],
+  "CRTIME": "2019-06-06 20:41:03",
+  "ISFZG": "false",
+  "NEWSSTYLE": "",
+  "CONTRIBUTORSTWO_DB": {
+    "name": "无",
+    "value": "无"
+  },
+  "HTMLCONTENT": "<p><iframe scrolling=\"no\" height=\"406\" width=\"640\" frameborder=\"0\" src=\"https://v.zjol.com.cn/video/iframe/player.html?id=253815&amp;autoPlay=0\" allowfullscreen=\"\"></iframe></p><p>“板桥风景真的太美了。能在这么好的环境里唱歌、跳舞，真是一种别样的享受……”6月6日，丽水学院艺术助推畲乡板桥振兴暨第四届国际小镇音乐节启动仪式在板桥乡金村文化广场举行，丽水学院民族学院音乐系的大四学生甘婷在一整天的活动结束后，对美丽的板桥发出由衷的赞叹。<br></p><p>上午十点不到，60余名丽水学院民族学院的师生已早早等候在现场。一曲《丽水学院之歌》拉开了此次活动的序幕。</p><div contenteditabled=\"false\" style=\"display:inline-block\" class=\"picdiv\"><figure class=\"wg wgImage\"><p class=\"wgImage-source\" contenteditable=\"false\"><img src=\"http://mlf.8531.cn//webpic/W0201906/W020190606/W020190606747179122593.jpg\" class=\"limitWidth\" OLDSRC=\"W020190606747179122593.jpg\" /></p><p class=\"wgImage-content\">音乐节现场</p></figure></div><p>紧接着，婀娜多姿的舞蹈、婉转动听的女声独唱、像泉水叮咚的古筝合奏……七个艺术形态各异的节目轮番上演，引得台下的观众不断拍手称赞。</p><p>而下午的节目则更是别具一格。丽水学院民族学院的师生们在田间扛起锄头挖土豆、在高山上背起竹篓采茶叶，在小学的操场教授小学生歌唱红歌、演奏乐器，在湖畔开一场属于自己的“环湖音乐会”……</p><p>“今天的音乐小镇太棒了，我是第一次来中国、第一次来板桥，我今天又采茶叶又挖土豆，真是太好玩了。”来自摩洛哥的菲蔓是丽水学院民族学院中文系的学生，她对板桥的一切都充满了好奇。</p><p>&nbsp;活动过程中，丽水学院民族学院与板桥畲族乡人民镇府签订了项目合作协议并举行丽水学院民族学院畲族文化实践基地授牌仪式。</p><div contenteditabled=\"false\" style=\"display:inline-block\" class=\"picdiv\"><figure class=\"wg wgImage\"><p class=\"wgImage-source\" contenteditable=\"false\"><img src=\"http://mlf.8531.cn//webpic/W0201906/W020190606/W020190606747179401390.jpg\" class=\"limitWidth\" OLDSRC=\"W020190606747179401390.jpg\" /></p><p class=\"wgImage-content\">教授小学生歌唱红歌</p></figure></div><p>后续，松阳县艺术助推乡村振兴工作领导小组还将协同板桥畲族乡人民政府与丽水学院音乐系建立艺术家工作室、不定期开展音乐艺术创作、研究交流等活动。</p><p>去年，松阳作出“山区国际化”发展的重要决定，并把开展艺术助推乡村振兴作为推进工作的四大着力点之一，原因就在于艺术是助力乡村振兴的重要原动力。</p><p>艺术走进乡村，不仅能够挖掘乡村的人文之美，提升乡村的生态之美，还能促进乡村价值的输出、乡土文化品牌的打造、以及艺术产业的延伸拓展。</p><p>“通过丽水学院艺术助推畲乡板桥振兴这个契机，结合大学生实践基地创建，让我们畲乡文化可以绽放出更多的花朵，以文化引领，合力助推板桥畲乡振兴。”活动结束后，松阳县板桥乡乡长兰明顺自信满满地说道。</p>",
+  "ISSELECTFIGURE": "0",
+  "VIDEOLOGO": "0",
+  "THUMB": "1",
+  "CONTENT": "“板桥风景真的太美了。能在这么好的环境里唱歌、跳舞，真是一种别样的享受……”6月6日，丽水学院艺术助推畲乡板桥振兴暨第四届国际小镇音乐节启动仪式在板桥乡金村文化广场举行，丽水学院民族学院音乐系的大四学生甘婷在一整天的活动结束后，对美丽的板桥发出由衷的赞叹。\n\n上午十点不到，60余名丽水学院民族学院的师生已早早等候在现场。一曲《丽水学院之歌》拉开了此次活动的序幕。\n\n音乐节现场\n\n紧接着，婀娜多姿的舞蹈、婉转动听的女声独唱、像泉水叮咚的古筝合奏……七个艺术形态各异的节目轮番上演，引得台下的观众不断拍手称赞。\n而下午的节目则更是别具一格。丽水学院民族学院的师生们在田间扛起锄头挖土豆、在高山上背起竹篓采茶叶，在小学的操场教授小学生歌唱红歌、演奏乐器，在湖畔开一场属于自己的“环湖音乐会”……\n“今天的音乐小镇太棒了，我是第一次来中国、第一次来板桥，我今天又采茶叶又挖土豆，真是太好玩了。”来自摩洛哥的菲蔓是丽水学院民族学院中文系的学生，她对板桥的一切都充满了好奇。\n　活动过程中，丽水学院民族学院与板桥畲族乡人民镇府签订了项目合作协议并举行丽水学院民族学院畲族文化实践基地授牌仪式。\n\n教授小学生歌唱红歌\n\n后续，松阳县艺术助推乡村振兴工作领导小组还将协同板桥畲族乡人民政府与丽水学院音乐系建立艺术家工作室、不定期开展音乐艺术创作、研究交流等活动。\n去年，松阳作出“山区国际化”发展的重要决定，并把开展艺术助推乡村振兴作为推进工作的四大着力点之一，原因就在于艺术是助力乡村振兴的重要原动力。\n艺术走进乡村，不仅能够挖掘乡村的人文之美，提升乡村的生态之美，还能促进乡村价值的输出、乡土文化品牌的打造、以及艺术产业的延伸拓展。\n“通过丽水学院艺术助推畲乡板桥振兴这个契机，结合大学生实践基地创建，让我们畲乡文化可以绽放出更多的花朵，以文化引领，合力助推板桥畲乡振兴。”活动结束后，松阳县板桥乡乡长兰明顺自信满满地说道。",
+  "LISTSTYLE_DB": "0",
+  "SIGNATUREAUTHOR": "浙江新闻客户端 通讯员 黄碧云 徐锋 阮丽伟 记者 丁施昊",
+  "CONTRIBUTORSTHREE": {
+    "name": "无",
+    "value": "无"
+  },
+  "ORIGINAL": "0",
+  "HIDDENLABEL": "0",
+  "LABEL": "无",
+  "CONTRIBUTORSONE_DB": {
+    "name": "无",
+    "value": "无"
+  },
+  "COMMENTSET": "1",
+  "FOCUSIMGTITLE": "",
+  "TEMPNAME": {
+    "VALUE": 9798,
+    "NAME": "photo"
+  },
+  "ATTACHVIDEO": "0",
+  "KEYWORDS": "",
+  "COMMENTSET_DB": "1",
+  "CONTRIBUTORSONE": {
+    "name": "无",
+    "value": "无"
+  },
+  "ATTACHAUDIO": "0",
+  "MLFROOTID": "10287545",
+  "TRUENAME": "郑欣慰",
+  "ATTACHPIC": "1",
+  "TIMINGPUBLISHTIME": "2019-06-07 06:45:00",
+  "RELEVANTSPECIALDOC": [],
+  "DOCTYPEID": "1",
+  "TITLE": "外国留学生纷纷点赞 松阳畲乡办起了国际小镇音乐节",
+  "PUBTIME": "2019-06-07 06:45:06",
+  "PUBUSERNAME": "zhxw",
+  "PUBUSERTRUENAME": "郑欣慰",
+  "PUBUSERDEPT": "集团丽水分社",
+  "ChnlDocId": 10774010,
+  "FGD_EDITINFO": [],
+  "FGD_AUTHINFO": [
+    {
+      "ID": 7156,
+      "UNAME": "zhxw",
+      "USERNAME": "郑欣慰",
+      "Company": "集团丽水分社",
+      "Dept": "集团丽水分社",
+      "EMAIL": "",
+      "Post": "",
+      "Press": "",
+      "TELEPHONE": "",
+      "MOBILEPHONE": "13757804007",
+      "ADDRESS": "",
+      "FGDSFZ": "",
+      "TYPE": 23
+    }
+  ],
+  "DOCGENRE": {
+    "name": "无体裁",
+    "value": "无体裁"
+  },
+  "ISNOPAYMENT": 1,
+  "DOCSTATUS": 10
+}
