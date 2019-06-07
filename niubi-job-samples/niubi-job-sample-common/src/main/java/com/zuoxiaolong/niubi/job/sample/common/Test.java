@@ -17,6 +17,7 @@
 
 package com.zuoxiaolong.niubi.job.sample.common;
 
+import com.zuoxiaolong.niubi.job.core.helper.LoggerHelper;
 import com.zuoxiaolong.niubi.job.scheduler.node.Node;
 import com.zuoxiaolong.niubi.job.scheduler.node.SimpleLocalJobNode;
 
@@ -31,5 +32,7 @@ public class Test {
         Node node = new SimpleLocalJobNode("com.zuoxiaolong");
         node.join();
     }
+
+
 
 }
